@@ -103,7 +103,7 @@
         <airline.version>2.6.0</airline.version>
         <antlr.version>4.7</antlr.version>
         <csv.version>1.4</csv.version>
-        <lang3.version>3.3.1</lang3.version>
+        <lang3.version>3.18.0</lang3.version>
         <guava.version>24.1.1-jre</guava.version>
         <protobuf.version>3.11.1</protobuf.version>
         <retrying.version>2.0.0</retrying.version>
